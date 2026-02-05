@@ -1,3 +1,4 @@
+#1RUA25BCA0007_ADITYA C
 num1 = int(input("Enter the 1st number"))
 num2 = int(input("Enter the 2nd number"))
 num3 = int(input("Enter the 3rd number"))
@@ -7,3 +8,4 @@ elif num2>num3 and num2>num1:
            print ("The 2nd number bigger")
 else:
            print ("The 3rd number bigger")
+
