@@ -1,3 +1,4 @@
+#1RUA25BCA0007_ADITYA C
 #simple calculator
 
 num1 = float(input("Enter first number: "))
@@ -40,3 +41,4 @@ match op:
 
     case _:
         print("Invalid operator")
+
